@@ -1,0 +1,20 @@
+.ipynb_checkpoints/
+
+data/
+csv_data/IMDB Dataset.csv
+
+csv_data/
+
+__pycache__/
+*.py[cod]
+
+venv/
+.venv/
+env/
+
+*.h5
+*.keras
+*.pth
+*.pt
+*.pkl
+*.joblib
